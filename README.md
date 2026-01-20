@@ -1,2 +1,0 @@
-# Sla-hub
-Sla hub
